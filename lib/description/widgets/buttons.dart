@@ -38,7 +38,7 @@ class _ButttonsState extends State<Buttons> {
             onPressed: () {},
             child: GradientText(
               'Description',
-              colors: const [Color(0xFF37B6E9), Color(0xFF4B4CED)],
+              colors: const [Color(0xFF3CA4EB), Color(0xFF4286EE)],
               style: const TextStyle(
                   color: Color(0xFF3CA4EB),
                   fontSize: 15,
